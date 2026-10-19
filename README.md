@@ -1,5 +1,7 @@
 # SolidCraft for Fedora (COPR)
 
+[![COPR build status](https://copr.fedorainfracloud.org/coprs/blackhawk/SolidCraft/package/solidcraft/status_image/last_build.png)](https://copr.fedorainfracloud.org/coprs/blackhawk/SolidCraft/package/solidcraft/)
+
 Unofficial Fedora packages of [SolidCraft](https://github.com/tangency-labs/solidcraft), built in
 [blackhawk/SolidCraft](https://copr.fedorainfracloud.org/coprs/blackhawk/SolidCraft/).
 
