@@ -1,7 +1,7 @@
 %global app_id ai.storyteller.solidcraft
 
 Name:           solidcraft
-Version:        0.19.0
+Version:        0.20.0
 Release:        1%{?dist}
 Summary:        Open-source parametric 3D CAD application built in pure Rust
 
@@ -95,6 +95,9 @@ appstreamcli validate --no-net --explain %{buildroot}%{_metainfodir}/%{app_id}.m
 %{_datadir}/icons/hicolor/*/apps/%{app_id}.png
 
 %changelog
+* Fri Oct 23 2026 SolidCraft COPR bot <jasper@haenenweb.nl> - 0.20.0-1
+- Update to 0.20.0
+
 * Thu Oct 22 2026 SolidCraft COPR bot <jasper@haenenweb.nl> - 0.19.0-1
 - Update to 0.19.0
 
