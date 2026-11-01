@@ -1,4 +1,4 @@
-%global app_id ai.storyteller.solidcraft
+%global app_id io.tangencylabs.solidcraft
 
 Name:           solidcraft
 Version:        0.28.0
