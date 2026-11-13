@@ -1,7 +1,7 @@
 %global app_id io.tangencylabs.solidcraft
 
 Name:           solidcraft
-Version:        0.40.1
+Version:        0.41.0
 Release:        1%{?dist}
 Summary:        Open-source parametric 3D CAD application built in pure Rust
 
@@ -95,6 +95,9 @@ appstreamcli validate --no-net --explain %{buildroot}%{_metainfodir}/%{app_id}.m
 %{_datadir}/icons/hicolor/*/apps/%{app_id}.png
 
 %changelog
+* Fri Nov 13 2026 SolidCraft COPR bot <jasper@haenenweb.nl> - 0.41.0-1
+- Update to 0.41.0
+
 * Thu Nov 12 2026 SolidCraft COPR bot <jasper@haenenweb.nl> - 0.40.1-1
 - Update to 0.40.1
 
